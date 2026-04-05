@@ -33,8 +33,9 @@ The dataset used is `heart-disease.csv`, containing anonymized patient medical r
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/uttkarshyadavv/Heart-disease-prediction-ml.git
+   cd Heart-disease-prediction-ml
+
    ```
 
 2. Install dependencies:
